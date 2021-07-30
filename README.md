@@ -1,0 +1,1 @@
+This is Edric's Git test project.
